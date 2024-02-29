@@ -1,0 +1,2 @@
+# axino
+axino testnet
